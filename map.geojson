@@ -1,0 +1,442 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [95.295582, 5.538121, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Banda Aceh",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/l5lKKcD_ulacSns9XODFub05f0iGfr6vH4bAYQA3j7uB9WyuAIibnh8-cyxWeZ0EfzvKuw_X0B0XECrmhRvAvaRrHUBiMHH8OQ\" height=\"200\" width=\"auto\" /><br><br>JL. Pendidikan, Gampong Punge Blang Cut,<br>Kecamatan Meraxa,<br>Kota Banda Aceh 23234<br>Telp. 0651 - 44749, 44750,<br>Faks. 0651- 44757;<br>E-mail: ut-bandaaceh@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/l5lKKcD_ulacSns9XODFub05f0iGfr6vH4bAYQA3j7uB9WyuAIibnh8-cyxWeZ0EfzvKuw_X0B0XECrmhRvAvaRrHUBiMHH8OQ"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [103.950866, 1.114677, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Batam",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/ZBNXESHXPgRDStHEPQr0fQ0JU5oMcueQQ5JsmWNnjpkPNeFbsODN1u2mxv47z8AcqnQBFWDbSgRwTNWMB-EDWzXkB_UijUFt1dw\" height=\"200\" width=\"auto\" /><br><br>Jl. Dr. Sutomo No. 3 Sekupang,<br>Batam 29422<br>Telp. 0778 - 326189, 323478, 323469, 323470;<br>Faks. 0778 - 323479<br>E-mail: ut-batam@ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/ZBNXESHXPgRDStHEPQr0fQ0JU5oMcueQQ5JsmWNnjpkPNeFbsODN1u2mxv47z8AcqnQBFWDbSgRwTNWMB-EDWzXkB_UijUFt1dw"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [100.355902, -0.915785, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Padang",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/zwKV1CmT15mW27fOZSfvArG81Hcgw2sZJ0VcC0MMIUgRS9HUnhzbvddHd-MfvjPdBaHNGJTML-OpJAhg7Pd6JiA1wzNX-_zeGpGP\" height=\"200\" width=\"auto\" /><br><br>Jl. Raya By Pass Km.13<br>Sungai Sapih, Padang 25159<br>Telp. 0751-496630<br>Faks. 0751-496633<br>E-mail: ut-padang@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/zwKV1CmT15mW27fOZSfvArG81Hcgw2sZJ0VcC0MMIUgRS9HUnhzbvddHd-MfvjPdBaHNGJTML-OpJAhg7Pd6JiA1wzNX-_zeGpGP"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [98.713403, 3.610945, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Medan",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/yNg0DA1nFGCcdk8UViQymp4VOp0OEyo7UGw6h9GLH58fzk_mWi9ps9YJWVAH91kHFjAKAlHNDeqHs5lL1khobmEfsQjN5qbYCBo\" height=\"200\" width=\"auto\" /><br><br>Jl. Bromo No. 29 Medan, Kelurahan Binjai <br>Kecamatan Medan Denai 20228 <br>Telp. 061-7323795, 7326261 <br>Fax 061-7326260 <br>E-mail: ut-medan@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/yNg0DA1nFGCcdk8UViQymp4VOp0OEyo7UGw6h9GLH58fzk_mWi9ps9YJWVAH91kHFjAKAlHNDeqHs5lL1khobmEfsQjN5qbYCBo"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.149902, -2.2447560000000006, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Pangkal Pinang",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/F5lhS9rsBwAJbEWd5WBf9UOJBHSmrGGIGtekEgP17vcHFnRgKWDbKnuaK6BPJHdOmfCPGZ3Mea9Y3sdbAHr3BunfPAk6LpfRBUIQPz--iDka0bQ\" height=\"200\" width=\"auto\" /><br><br>Jl. Pulau Bangka, Kemplek Perkantoran dan<br>Pemukiman Terpadu,<br>Prop. Kep Bangka Belitung<br>Telp. 0717- 424986, 437949<br>Faks. 0717- 436140<br>E-mail: ut-pangkalpinang@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/F5lhS9rsBwAJbEWd5WBf9UOJBHSmrGGIGtekEgP17vcHFnRgKWDbKnuaK6BPJHdOmfCPGZ3Mea9Y3sdbAHr3BunfPAk6LpfRBUIQPz--iDka0bQ"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.872782, -6.201411, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Jakarta",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/xQn098LlL7KnW0PH4tAVRFfrkYLj2oEoKLb4YXpPZEtdIW5SBU5IYMQStBIIxJkvEwHXamJoXvykUcjDLzWqIQIFoU8_h-_tNgfWcw\" height=\"200\" width=\"auto\" /><br><br>Jl. Ahmad Yani No. 43 (By pass) Kel. Utan Kayu, Kec. Matraman, Jakarta Timur<br>Telp. 021-29613751, 85914353, 29613752, 29622059<br>Faks. 021-29613751<br>E-mail: ut-jakarta@ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/xQn098LlL7KnW0PH4tAVRFfrkYLj2oEoKLb4YXpPZEtdIW5SBU5IYMQStBIIxJkvEwHXamJoXvykUcjDLzWqIQIFoU8_h-_tNgfWcw"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [107.715065, -6.941183, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Bandung",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/WgxrdkQRLujVuz4jOWz6gDfVI0KHIKhzikaC6gloe_ZJkAL0i2ZQkx1Su3u1irPgFT_hudgS70d23e4SSOXOImc6Pk5ND8f6DBN9Pg\" height=\"200\" width=\"auto\" /><br><br>Jl. Panyileukan Raya No. 1 A,<br>Soekarno-Hatta, Bandung 40614<br>Telp. 022 - 7801791 (Hunting),<br>87820554, 87820560;<br>Faks. 022 - 87820556;<br>Email: badung@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/WgxrdkQRLujVuz4jOWz6gDfVI0KHIKhzikaC6gloe_ZJkAL0i2ZQkx1Su3u1irPgFT_hudgS70d23e4SSOXOImc6Pk5ND8f6DBN9Pg"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.903978, -7.581604, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Surakarta",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/H0fJDb7ICbGBGABgXsD7AuuDj6WLUYXjf0JFvzqw4HNzstSFCZQyb3-t_mgatNNpi16Ph6luipc-FZQaz6uDaPzTAD2EQoDSUUbHio0w\" height=\"200\" width=\"auto\" /><br><br>Jl. Raya Solo-Tawangmangu Km 9,5<br>Sapen, Mojolaban, Sukoharjo 57554<br>Telp. 0271 - 822629, 822632,<br>Faks. 0271 - 822632;<br>E-mail: ut-surakarta@ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/H0fJDb7ICbGBGABgXsD7AuuDj6WLUYXjf0JFvzqw4HNzstSFCZQyb3-t_mgatNNpi16Ph6luipc-FZQaz6uDaPzTAD2EQoDSUUbHio0w"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.355917, -7.818572, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Yogyakarta",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/bOCO0veeu9L2kNeUptgqR_FxD3MZNpbYgHUJRtx4ViwAQOAKCkL7TZtgpqxUUHpLROD1RH-8K5lk5-1Bodf86jBqnLB15vNnircEloWT9w\" height=\"200\" width=\"auto\" /><br><br>Jl. Bantul No. 81 Kel. Gedongkiwo,<br>Kec. Mantrijeron - Yogyakarta<br>Telp. 0274-411463, 411464<br>Faks. 0274-411464<br> E-mail: ut-yogyakarta@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/bOCO0veeu9L2kNeUptgqR_FxD3MZNpbYgHUJRtx4ViwAQOAKCkL7TZtgpqxUUHpLROD1RH-8K5lk5-1Bodf86jBqnLB15vNnircEloWT9w"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.783102, -7.265586, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Surabaya",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/mjIc0tkgg7DQ5k5MNhSQiKVzpOZ3Uvb9K6CwMw-lvBP2AQMb9wu4MdArH2fPy_vAmYONdHiSdK-lz9ndVpgIgDieCNJXb9vulp-Nusk\" height=\"200\" width=\"auto\" /><br><br>Kampus C Universitas Airlangga,<br>Jl. Mulyorejo, Surabaya 60115<br>Telp. 031 - 5961861, 5961862,<br>Faks. 031 - 5961860;<br>E-mail: ut-surabaya@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/mjIc0tkgg7DQ5k5MNhSQiKVzpOZ3Uvb9K6CwMw-lvBP2AQMb9wu4MdArH2fPy_vAmYONdHiSdK-lz9ndVpgIgDieCNJXb9vulp-Nusk"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [115.21724700000001, -8.7047438, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Denpasar",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/rt7H8oTF7a6zgPEjf39ORKKiMyygBJG07tz43G3yHW5KpE7T6hx9bXG3OOS7935RrmEH9HQK_MnSZFR4TvMxmZsPlqsd0JD61XMmors\" height=\"200\" width=\"auto\" /><br><br>Jl. Gurita No. 11 Sesetan,<br>Denpasar 80223<br>Telp. 0361 - 720720, 725856, 710508<br>Faks. 0361 - 710606<br>E-mail: ut-denpasar@ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/rt7H8oTF7a6zgPEjf39ORKKiMyygBJG07tz43G3yHW5KpE7T6hx9bXG3OOS7935RrmEH9HQK_MnSZFR4TvMxmZsPlqsd0JD61XMmors"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.15271799999998, -8.599713, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Mataram",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/tsyLvcYwLX59xA4pMpfKik7C2VbIUVbYdyC_nDA8WD4HjkdSxKM8b5Y-iKtQa8_z_PoMTKJFqjpncGbDeQKIaOzDnELZFQiXDKtNFQ\" height=\"200\" width=\"auto\" /><br><br>Jl. Neuningan, Sandubaya,<br>Lombok. NTB 83236<br>Telp. 0370 - 671007,<br>Telp./Faks. 0370 - 671006;<br>E-mail: ut-mataram@ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/tsyLvcYwLX59xA4pMpfKik7C2VbIUVbYdyC_nDA8WD4HjkdSxKM8b5Y-iKtQa8_z_PoMTKJFqjpncGbDeQKIaOzDnELZFQiXDKtNFQ"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.593445, -10.188735, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Kupang",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/Wn_b4fiqa03crKOYVW9JTVF_6VBhx9FPG6zjfCKnFtfHVJ9jOIuhM6XgGv2NYGGj15h71ysmMnt689Bc5r9O-sHB-XY2nLP1aaAR\" height=\"200\" width=\"auto\" /><br><br>Jl. Pulau Indah No. 06,<br>Kelurahan Oesapa Barat,<br>Kupang, NTT 85228<br>Telp. 0380 - 8553825,<br>Faks. 0380 - 8553813;<br>E-mail: ut-kupang@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/Wn_b4fiqa03crKOYVW9JTVF_6VBhx9FPG6zjfCKnFtfHVJ9jOIuhM6XgGv2NYGGj15h71ysmMnt689Bc5r9O-sHB-XY2nLP1aaAR"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.32935, -0.045007, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Pontianak",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/C0S-t5IxdZNvMly2eIRbQs1lwCbojwhKkllFHj0aikn3x8TU-s9hJbjOqnX1-t4AP7GC5xLLmkSQgSdtUMXzrWr1xSRUsF0qlp4Kqj2T\" height=\"200\" width=\"auto\" /><br><br>Jl. Karya Bakti, <br>Pontianak 78121<br>Telp. 0561-730291, 760791<br>Faks. 0561-736107<br>E-mail: ut-pontianak@ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/C0S-t5IxdZNvMly2eIRbQs1lwCbojwhKkllFHj0aikn3x8TU-s9hJbjOqnX1-t4AP7GC5xLLmkSQgSdtUMXzrWr1xSRUsF0qlp4Kqj2T"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.60422500000001, -3.38765, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Banjarmasin",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/VGGtEehwgJsFuTxSYULieQpyUf0FyzLJ1IwnEnO6uIXkB_tFhYOVaEbY35RB1w4FUJRtvN2DUbYOavzbfOIXnf9CApxYjFiBP9nFFamg_3c\" height=\"200\" width=\"auto\" /><br><br>Jl. Sultan Adam No. 128 Rt. 26,<br>Banjarmasin 70122,<br>Telp. 0511 - 4315675, 4315674, 4315673<br>Faks. 0511 - 4315671, 4315672;<br>E-mail: banjarmasin@ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/VGGtEehwgJsFuTxSYULieQpyUf0FyzLJ1IwnEnO6uIXkB_tFhYOVaEbY35RB1w4FUJRtvN2DUbYOavzbfOIXnf9CApxYjFiBP9nFFamg_3c"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.249012, -0.436273, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Samarinda",
+			"description": "<img src=\"https://lh3.googleusercontent.com/proxy/ZX9zzOXN4T0zrCHsGtFwZRiuGY_mzvg14o4j9RNNlMK-fAsl6B5D0zF6moYBYTnu3VIEp4cFlmIk6ceUy3nmj6MQG1kJ1HcWLb4DlWL1\" height=\"200\" width=\"auto\" /><br><br>Jl. H.A.M.M. Rifaddin,<br>Samarinda Sebrang 75131<br>Telp. 0541 - 7269108<br>Faks. 0541 - 7269109<br>E-mail: samarinda@upbjj.ut.ac.id",
+			"gx_media_links": "https://lh3.googleusercontent.com/proxy/ZX9zzOXN4T0zrCHsGtFwZRiuGY_mzvg14o4j9RNNlMK-fAsl6B5D0zF6moYBYTnu3VIEp4cFlmIk6ceUy3nmj6MQG1kJ1HcWLb4DlWL1"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.84443300000001, -3.243782, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Majene",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/flFyPYVxg4Vhp7rtmLja5BEt0bxYEKv5MzF5kdAgo_dHYSGpsLAXemzPduhtMKAwEYj7wCe45NtjuoOiWSvhYjD0NIGVsbafRniX\" height=\"200\" width=\"auto\" /><br><br>Jl. Sultan Hasanuddin No. 2 Majene <br>Tlp. 0422-22224, 0422-22229 <br>Faks. 0422-22227<br>E-mail: ut-majene@upbjj.ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/flFyPYVxg4Vhp7rtmLja5BEt0bxYEKv5MzF5kdAgo_dHYSGpsLAXemzPduhtMKAwEYj7wCe45NtjuoOiWSvhYjD0NIGVsbafRniX"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [119.88727599999999, -0.842612, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Palu",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/Gb9vrP7CEL8KOsDmFuzY9Dj4yEEj4uTiu5cytu2aUMmG3j3XJD2FvHHgQQc_psNCQpgPqLtNGWa4AxIQrY0FXhGD9YT2bjc_NA\" height=\"200\" width=\"auto\" /><br><br>Jl. Untad I, Tondo, Palu 94118<br>Telp. 0451 - 452228,<br>Faks. 0451 - 452826,<br>E-mail: ut-palu@upbjj.ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/Gb9vrP7CEL8KOsDmFuzY9Dj4yEEj4uTiu5cytu2aUMmG3j3XJD2FvHHgQQc_psNCQpgPqLtNGWa4AxIQrY0FXhGD9YT2bjc_NA"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [124.84073110000001, 1.4444477, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Manado",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/7Ou2vRSPuRPzgdAfdaXbazF_Me2lykpdTR6h08b3iSz66qxzYAqWoYOd0T2OqpgQ_OfSiVd1iLAn4wjaQ3pfULKhS7dJC-Wj6aX0\" height=\"200\" width=\"auto\" /><br><br>Jl. Sam Ratulangi Raya Manado-Tomohon,<br>Kec. Winangun (depan gereja GPDI Winangun)<br>Manado - SULUT 95261<br>Telp. 0431 - 822292<br>Faks. 0431 - 822229<br>E-mail: ut-manado@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/7Ou2vRSPuRPzgdAfdaXbazF_Me2lykpdTR6h08b3iSz66qxzYAqWoYOd0T2OqpgQ_OfSiVd1iLAn4wjaQ3pfULKhS7dJC-Wj6aX0"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [123.0565418, 0.5568501, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Gorontalo",
+			"description": "<img src=\"https://lh6.googleusercontent.com/proxy/M5lk9aC0XgDrTX91LUw1Flbq3VF0LB9-vkgUjL9cOcJSpGIz50k1njTyNL8EMcLuHI8qMSGBePAOBC-V2k5XtCOBqm5FDG-SzgbBT8om\" height=\"200\" width=\"auto\" /><br><br>Jl. Raden Saleh 27, <br>Kel. Dulalowo Timur, Kec. Kota Tengah, <br>Kota Gorontalo 96115<br>Telp. 0435 - 831965 Pesawat 102,<br>Faks. 0435 - 831964; <br>E-mail: ut-gtalo@upbjj.ut.ac.id",
+			"gx_media_links": "https://lh6.googleusercontent.com/proxy/M5lk9aC0XgDrTX91LUw1Flbq3VF0LB9-vkgUjL9cOcJSpGIz50k1njTyNL8EMcLuHI8qMSGBePAOBC-V2k5XtCOBqm5FDG-SzgbBT8om"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.31751, 0.898653, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Ternate",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/8hdP_PRFkhdEXKQa8559RCwEHz1ZUypIjUhneBGqYbmEi19PoufwhTawp0WRvavEIOamWNqQcateerr6Ae6Ik5FMa9oFmcTWg0ORQA\" height=\"200\" width=\"auto\" /><br><br>Jl. Raya Mangga Dua, Kota Ternate,<br>Prov. Maluku Utara 97710<br>Telp. 0921 - 3128352,<br>Faks. 0921 - 3128442; <br>E-mail: ut-ternate@ubpjj.ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/8hdP_PRFkhdEXKQa8559RCwEHz1ZUypIjUhneBGqYbmEi19PoufwhTawp0WRvavEIOamWNqQcateerr6Ae6Ik5FMa9oFmcTWg0ORQA"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [140.696883, -2.525951, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Jayapura",
+			"description": "<img src=\"https://lh3.googleusercontent.com/proxy/NnFa9XWBmzlWe8luuuyG0BCI5K7wwQz-W_0JLb-5cQ5L9EkUn9yzgf9nWbT3v2M4VTvFqT0L8vpIy1DoOPtRwOWGrFUG3nmh-y4PFi0\" height=\"200\" width=\"auto\" /><br><br>Jl. SPG Teruna Bhakti Waena, <br>Kotak pos 204 Abepura <br>Jayapura Papua 99358 <br>Telp. 0967-571447, <br>Faks. 0967-571090 <br>E-mail: ut-jayapura@upbjj.ut.ac.id",
+			"gx_media_links": "https://lh3.googleusercontent.com/proxy/NnFa9XWBmzlWe8luuuyG0BCI5K7wwQz-W_0JLb-5cQ5L9EkUn9yzgf9nWbT3v2M4VTvFqT0L8vpIy1DoOPtRwOWGrFUG3nmh-y4PFi0"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.75835600000002, -6.343642, 0]
+		},
+		"properties": {
+			"name": "Universitas Terbuka",
+			"description": "Kantor Pusat Universitas Terbuka<br>Jl. Cabe Raya, Pondok Cabe, Pamulang,<br> Tangerang Selatan 15418, Banten - Indonesia<br>Telp. (021) 1500024 (contact center), (021) 7490941 (Hunting), Faks. (021) 7490147 (Bagian Umum)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [102.297633, -3.829506, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Bengkulu",
+			"description": "<img src=\"https://lh3.googleusercontent.com/proxy/KQVYIfOxoAw-_oc2vA3WXgLTbwjj4Tje4q2FcFWjV1xe5kb5XakERZUFjqPQPhCmLYfvJuBh3GsQMPB27M6Gx6rsJ_nfapinoS25pSk\" height=\"200\" width=\"auto\" /><br><br>Jl. Sadang Raya, Kelurahan Lingkar Barat,<br>Kota Bengkulu 38225<br>Telp./Faks. 0736 - 26294<br>E-mail: bengkulu@ut.ac.id",
+			"gx_media_links": "https://lh3.googleusercontent.com/proxy/KQVYIfOxoAw-_oc2vA3WXgLTbwjj4Tje4q2FcFWjV1xe5kb5XakERZUFjqPQPhCmLYfvJuBh3GsQMPB27M6Gx6rsJ_nfapinoS25pSk"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [101.42353, 0.47428, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Pekanbaru",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/OXz_Iq7d8IiUx7nPBDyCUbeJDiG6IO0Rw8lBy76_EaTnNTbAQs3AwQyzkP19DerTJBP2R2GNUyCu4SJ80-_9PDIhxmOMgWYjXaW-YzD2\" height=\"200\" width=\"auto\" /><br><br>Jl. Arifin Ahmad No. 111, Kel. Sidomulyo Timur,<br> Marpoyan Damai, Pekanbaru 28924<br>Telp. 0761-589261<br>Faks. 0761-589259<br>E-mail: ut-pekanbaru@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/OXz_Iq7d8IiUx7nPBDyCUbeJDiG6IO0Rw8lBy76_EaTnNTbAQs3AwQyzkP19DerTJBP2R2GNUyCu4SJ80-_9PDIhxmOMgWYjXaW-YzD2"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.726249, -8.16417, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Jember",
+			"description": "<img src=\"https://lh3.googleusercontent.com/proxy/cmXGhIuafqr8c9LNgfjiWMfhd5iTsGTnQu10y0T3d9Gy-LgrrmWVsS4g1hIofzjNE84vSZwljODO_wSgV5eaKqor0pWLculRZknG\" height=\"200\" width=\"auto\" /><br><br>Jl. Kaliurang No. 2-A, Jember 68121<br>Telp. 0331 - 326444,<br>Faks. 0331 - 336444;<br>E-mail: jember@ut.ac.id",
+			"gx_media_links": "https://lh3.googleusercontent.com/proxy/cmXGhIuafqr8c9LNgfjiWMfhd5iTsGTnQu10y0T3d9Gy-LgrrmWVsS4g1hIofzjNE84vSZwljODO_wSgV5eaKqor0pWLculRZknG"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [109.24685, -7.40259, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Purwokerto",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/A_9zfwm3A0aK_o7lUQrn-ZT1wWoE5-TQCl1Y6lEIXaSWLF1tw3_js6FnvTXi3faeRKgXoEHDKwdUh2CKP4SttesPc9sKKjKIGJjjb6OCCA\" height=\"200\" width=\"auto\" /><br><br>Jl. Kampus Grendeng No. 54,<br>Purwokerto Utara 53122<br>Telp. 281- 624317<br>Faks. 0281- 624318<br>E-mail: ut-purwokerto@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/A_9zfwm3A0aK_o7lUQrn-ZT1wWoE5-TQCl1Y6lEIXaSWLF1tw3_js6FnvTXi3faeRKgXoEHDKwdUh2CKP4SttesPc9sKKjKIGJjjb6OCCA"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.642517, -8.028092, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Malang",
+			"description": "<img src=\"https://lh3.googleusercontent.com/proxy/e9hXZmFB440oHI1Jja0GE3_lCZMy2Y1o1aVrUpoS6iSAL9BZzZUeHN4L5G2x88d06polTDcpd21lVb3e3htCR2toGse4rRpoiwNu\" height=\"200\" width=\"auto\" /><br><br>Jl. Mayjen, Sungkono No. 9, Malang 65145<br>Telp. 0341 - 751600, 751608<br>Faks. 0341 - 751717;<br>E-mail: malang@ut.ac.id",
+			"gx_media_links": "https://lh3.googleusercontent.com/proxy/e9hXZmFB440oHI1Jja0GE3_lCZMy2Y1o1aVrUpoS6iSAL9BZzZUeHN4L5G2x88d06polTDcpd21lVb3e3htCR2toGse4rRpoiwNu"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [104.73198, -2.99448, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Palembang",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/G3fj4s1SjU9muhUgOoKQ9rSVX_4Y105pEzyl9ZHJ4Nz2zACdGbhs9jA0lFsfaKBHZDVZuMTxaNa4mGYr25-85-8Ry_TdAba_-4GNJWv0\" height=\"200\" width=\"auto\" /><br><br>Jl. Sultan Muhammad Mansyur,<br>Bukit Lama, Palembang 30139<br>Telp. 0711- 443993, 443994;<br>Faks. 0711- 443992<br>E-mail: ut-palembang@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/G3fj4s1SjU9muhUgOoKQ9rSVX_4Y105pEzyl9ZHJ4Nz2zACdGbhs9jA0lFsfaKBHZDVZuMTxaNa4mGYr25-85-8Ry_TdAba_-4GNJWv0"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [105.23111, -5.358138, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Bandar Lampung",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/CYm8Dl1dDSGLqRiYzbSIoCX_70cdPQ186ZMecin-326_wmTZom4tSQgvWMZg-RWRjEuoSD2_vFlUwLihLQD37U0qV1Lj2PWrG9hw1w\" height=\"200\" width=\"auto\" /><br><br>Jl. Soekarno-Hatta No. 108 B Rajabasa,<br>Bandar Lampung 35144<br>Telp. 0721 - 704772<br>Faks. 0721 - 709026<br>E-mail: ut-bandarlampung@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/CYm8Dl1dDSGLqRiYzbSIoCX_70cdPQ186ZMecin-326_wmTZom4tSQgvWMZg-RWRjEuoSD2_vFlUwLihLQD37U0qV1Lj2PWrG9hw1w"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.1956648, -6.1195173, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Serang",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/5GcE0Fx4t4nq7RfT90yGqzGobWgZbnJXnl87bzK_5MebG7PhyWRX3BbsSFPC5RQvZ5jg_6AqeAH61Duvi0Fzljp5Yyg_cwZfIP7C\" height=\"200\" width=\"auto\" /><br><br>Jl. Raya Jakarta Km. 7, Pakupatan<br>Serang 42122<br>Telp. 0254 - 282728, 282721,<br>Faks. 0254 - 282719;<br>E-mail: ut-serang@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/5GcE0Fx4t4nq7RfT90yGqzGobWgZbnJXnl87bzK_5MebG7PhyWRX3BbsSFPC5RQvZ5jg_6AqeAH61Duvi0Fzljp5Yyg_cwZfIP7C"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.8937, -2.2307000000000006, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Palangkaraya",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/wi4riZ2E_Uz3x8sJoFjaic-QpmRNF-wUML73Z_xVvJcr-ZRVNQExcqWOQUdaz9gKEcKUm3YSuZiB_UujUQ3OGcFxwBsifUXrYQuwr_RVGcYd\" height=\"200\" width=\"auto\" /><br><br>Jl. G. Obos No. 177, Km 3,5<br>Palangka Raya 73112<br>Telp. 0536 - 3221084,<br>Faks. 0536 - 3221086;<br>E-mail: ut-palangkaraya@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/wi4riZ2E_Uz3x8sJoFjaic-QpmRNF-wUML73Z_xVvJcr-ZRVNQExcqWOQUdaz9gKEcKUm3YSuZiB_UujUQ3OGcFxwBsifUXrYQuwr_RVGcYd"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [119.42681799999998, -5.148836, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Makassar",
+			"description": "<img src=\"https://lh3.googleusercontent.com/proxy/aerEKPMEAMjWAZ8cza7msYTb2FbLni-RY4GBP9m8x3HSPRUM5L3JSD1SRKlEBNf1gaWiaZ268H8bw5AL2Q3h-kN7EQl5aFutZnmbYjM\" height=\"200\" width=\"auto\" /><br><br>Jl. Monginsidi Baru No. 7, Maricaya Baru,<br>Makassar 90142<br>Telp. 0411 - 411444,<br>Faks. 0411 - 466483;<br>E-mail: ut-makassar@upbjj.ut.ac.id",
+			"gx_media_links": "https://lh3.googleusercontent.com/proxy/aerEKPMEAMjWAZ8cza7msYTb2FbLni-RY4GBP9m8x3HSPRUM5L3JSD1SRKlEBNf1gaWiaZ268H8bw5AL2Q3h-kN7EQl5aFutZnmbYjM"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [103.623355, -1.606414, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Jambi",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/C4ozcmormcfYb5firQLSdOXnGINT57tPNAfDJAmWmmYxLKI5wathJM-LcXrYQFwvYAwyKZ03cHVKeuAQ4BjhoDeTo_Td5GtLFKM\" height=\"200\" width=\"auto\" /><br><br>Jl. Tarmizi Kadir No.60, Pakuan Baru,<br>Jambi 36132<br>Telp. 0741- 25753<br>Faks. 0741- 7555572<br>E-mail: jambi@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/C4ozcmormcfYb5firQLSdOXnGINT57tPNAfDJAmWmmYxLKI5wathJM-LcXrYQFwvYAwyKZ03cHVKeuAQ4BjhoDeTo_Td5GtLFKM"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [128.239753, -3.6422640000000004, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Ambon",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/4PH6ANyLth_-tpfhx8EktWseVhnWtONb_-gsuc-jvAlhspGrmiTjt5xAYfnNDExzHTp0ZiS_HtKbaF_gPxnCTarl1uhENdFbZkw\" height=\"200\" width=\"auto\" /><br><br>Jl. Woltermonginsidi Lateri, <br>Ambon 97231<br>Telp. 0911 - 361303<br>Faks. 0911 - 361304; <br>E-mail: ut-ambon@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/4PH6ANyLth_-tpfhx8EktWseVhnWtONb_-gsuc-jvAlhspGrmiTjt5xAYfnNDExzHTp0ZiS_HtKbaF_gPxnCTarl1uhENdFbZkw"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [122.5336789, -4.0018612, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Kendari",
+			"description": "<img src=\"https://lh4.googleusercontent.com/proxy/E7CcT-cQ-RsuWd05JDpbLOMuuVmbDHOTHhIYUcPgQI7Rb76kk2_pw06AoWqdlsAFnioHE5hrfQdBTw4524C_C2EcJIYLlEughI2Mww\" height=\"200\" width=\"auto\" /><br><br>Jl. A.H. Nasution, Kelurahan Kambu <br>Bundaran Anduonohu, Kendari 93232 <br>Telp. (0401) 3136035, 3136036 <br>Faks. (0401) 3136033 <br>E-mail: ut-kendari@ut.ac.id",
+			"gx_media_links": "https://lh4.googleusercontent.com/proxy/E7CcT-cQ-RsuWd05JDpbLOMuuVmbDHOTHhIYUcPgQI7Rb76kk2_pw06AoWqdlsAFnioHE5hrfQdBTw4524C_C2EcJIYLlEughI2Mww"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.786965, -6.559669, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Bogor",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/-STt3ydoRTqNbl7WYiO1iADGh-1r_-EifFfdHOWqH5UNhCcmVJp38qti42vsvBu6gHKYZA55bXXini5Mv6e9UXw9Ay8iOwxSP4o\" height=\"200\" width=\"auto\" /><br><br>Jl. KH. Soleh Iskandar No. 234,<br>Tanah Sereal, Bogor 16164<br>Telp. 0251-7559237<br>Faks. 0251-7559238<br>E-mail: ut-bogor@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/-STt3ydoRTqNbl7WYiO1iADGh-1r_-EifFfdHOWqH5UNhCcmVJp38qti42vsvBu6gHKYZA55bXXini5Mv6e9UXw9Ay8iOwxSP4o"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.30889, -6.97248, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Semarang",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/LF3IuQOTBmsTSuZ9deSR7tqaWvz_IHn33MyWBNCUXFfsdK_Galqb9RBmhQzJGlT2FKUBfQRDdiHAGB5mpMzXPVRsKJz0mFpTQtGelVU\" height=\"200\" width=\"auto\" /><br><br>Jl. Semarang-Kendal, Mangkang Wetan,<br> Semarang<br>Telp. 024 - 8666044,<br>Faks. 024 - 8666045;<br>E-mail: ut-semarang@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/LF3IuQOTBmsTSuZ9deSR7tqaWvz_IHn33MyWBNCUXFfsdK_Galqb9RBmhQzJGlT2FKUBfQRDdiHAGB5mpMzXPVRsKJz0mFpTQtGelVU"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [131.266053, -0.882913, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Sorong",
+			"description": "<img src=\"https://lh5.googleusercontent.com/proxy/hEmLHTZJ9zyJauO5kahberfKpJN39LecHLWLBdUFhA4BZBLGxouyFkTwJGsZfufnI5WiGSViLc4r23PAp1FLX6BFQZNLgfqxC2dx\" height=\"200\" width=\"auto\" /><br><br>Jl. Jenderal Sudirman No. 9A Remu Selatan,<br> Sorong, Papua Barat <br>Telp. 0951 - 321107, 321056, 321054 <br>E-mail: ut-sorong@ut.ac.id",
+			"gx_media_links": "https://lh5.googleusercontent.com/proxy/hEmLHTZJ9zyJauO5kahberfKpJN39LecHLWLBdUFhA4BZBLGxouyFkTwJGsZfufnI5WiGSViLc4r23PAp1FLX6BFQZNLgfqxC2dx"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.59263519999999, 3.3106629, 0]
+		},
+		"properties": {
+			"name": "UPBJJ-UT Tarakan",
+			"description": "Jl. Jenderal Sudirman No. 7 Tarakan, Kalimantan Utara"
+		}
+	}]
+}
